@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **placeForm**
 
-- 🌱 I’m currently learning **Postgres**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👯 I’m looking to collaborate on **Anything that involves coding and creativity!**
 
