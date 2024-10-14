@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kamal Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalxdev&label=Profile%20views&color=0e75b6&style=flat" alt="kamalxdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalxdev&theme=juicyfresh" alt="kamalxdev" /></a> </p>
+[![An image of @deviamksb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deviamksb)](https://holopin.io/@deviamksb)
 
 - 🔭 I’m currently working on [CodeHub](https://github.com/kamalxdev/codehub)
 - 🤝 I’m looking for help with **Open Source Contribution**
