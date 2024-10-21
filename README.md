@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tech I use</h2>
+<h2 align="left">Technologies I have used</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">Holopin badges</h3>
+<h2 align="left">Holopin Badges</h2>
 
 ###
 
