@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Technologies I have used</h2>
+<h2 align="left">My tools</h2>
 
 ###
 
